@@ -19,7 +19,7 @@ export default function HomePage() {
           <span className="text-blue-600">Vercel</span>
         </a>
         <h1 className="mx-auto max-w-4xl font-display text-5xl font-bold tracking-normal text-gray-300 sm:text-7xl">
-          Generating dream rooms{" "}
+          Gerando quartos dos sonhos{" "}
           <span className="relative whitespace-nowrap text-blue-600">
             <SquigglyLines />
             <span className="relative">AI</span>
@@ -40,7 +40,7 @@ export default function HomePage() {
           <div className="flex flex-col space-y-10 mt-4 mb-16">
             <div className="flex sm:space-x-8 sm:flex-row flex-col">
               <div>
-                <h3 className="mb-1 font-medium text-lg">Original Room</h3>
+                <h3 className="mb-1 font-medium text-lg">Sala Original</h3>
                 <Image
                   alt="Original photo of a room with roomGPT.io"
                   src="/original-pic.jpg"
